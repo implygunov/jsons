@@ -1,0 +1,28 @@
+[
+  {
+    "online": "2,
+    "maxonline": "1300",
+    "color": "FF0000",
+    "x2": "true",
+    "key": "1424",
+    "name": "NOUDOV MOBILE | МОСКВА",
+    "firstname": "Москва",
+    "secondname": "",
+    "url": "moscow.blackrussia.online",
+    "ip": "80.66.82.46",
+    "port": "5125"
+  },
+  {
+    "online": "1",
+    "maxonline": "1300",
+    "color": "3885E9",
+    "x2": "true",
+    "key": "1424",
+    "name": "NOUDOV MOBILE | CHEREPOVETS",
+    "firstname": "CHEREPOVETS",
+    "secondname": "",
+    "url": "cherepovets.blackrussia.online",
+    "ip": "80.66.82.153",
+    "port": "5125"
+  }
+]
